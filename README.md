@@ -1,7 +1,7 @@
 ## Python Script to analyze the financial records of the company
 
 Initially, necessary data set was imported, csv for reading the csv file. And os for accessing file system. 
-Then the path for the csv file is set using the os.path.join () function.
+Then the path for the csv file is set using the os.path.join() function.
 Multiple variables were assigned to keep track of months, total profit, and list that contains the changes, previous value to get change values and greatest increase /decrease.
 Opened and read CSV file to calculate months, calculated net profit , got values in order to get change value. And added the values to change list.
 Using if statement was able to retrieve data about the date and max/min change value
@@ -10,7 +10,7 @@ Using output.txt was able to print the necessary values in the file.
 
 ## Modernization of Vote-counting process 
 Initially, necessary data set was imported, csv for reading the csv file. And os for accessing file system. 
-Then the path for the csv file is set using the os. path, join () function.
+Then the path for the csv file is set using the os.path.join () function.
 Multiple variables were assigned for total votes, votes per candidates and candidate list.
 Opened and read CSV file to get the total number of votes.
 Using append function verified and counted the votes for each candidate.

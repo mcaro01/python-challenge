@@ -66,4 +66,4 @@ output.close()
 contents = open("output.txt", "r")
 print(contents.read())
 contents.close()
-#This reads output.txt and prints it to the terminal
+
